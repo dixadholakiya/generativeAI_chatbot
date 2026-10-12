@@ -1,0 +1,151 @@
+q_id,intent,question
+Q001,Privacy,Quick question: A company shared my personal data. Is that allowed?
+Q002,Privacy,Someone entered my home without a warrant. Is that legal?
+Q003,Arrest rights,"Hi, My cousin was taken into custody. Who should I call?"
+Q004,Privacy,Please help: My chats were shared without asking. What does the Constitution say?
+Q005,Arrest rights,Quick question: I am held at a police station. Who should I call?
+Q006,Privacy,Quick question: The police read my phone messages. Is that legal?
+Q007,Arrest rights,Quick question: My cousin was taken into custody. Who should I call?
+Q008,E-signature,I clicked accept on an online agreement. Is it the same as ink?
+Q009,E-signature,Please help: I clicked accept on an online agreement. Can I be bound by it?
+Q010,E-signature,My landlord sent a PDF to sign. Does the law recognise it?
+Q011,Arrest rights,Please help: My cousin was taken into custody. Who should I call?
+Q012,Privacy,Please help: A company shared my personal data. Can I complain?
+Q013,E-signature,Please help: My landlord sent a PDF to sign. Is it legally valid?
+Q014,Cyber incident,"Hi, We received a phishing email. Where do I get help?"
+Q015,E-signature,The bank accepted an electronic signature. Can I use it in court?
+Q016,Privacy,"Hi, My chats were shared without asking. Is that allowed?"
+Q017,Arrest rights,I am confused. I am held at a police station. Do I have rights?
+Q018,Cyber incident,I am confused. A hacker leaked our customer records. What should we do first?
+Q019,Cyber incident,My company was hit by ransomware. Who do I report it to?
+Q020,E-signature,Please help: The bank accepted an electronic signature. Can I be bound by it?
+Q021,Arrest rights,Please help: The police arrested my brother. Who should I call?
+Q022,E-signature,I am confused. I clicked accept on an online agreement. Is it the same as ink?
+Q023,Privacy,Please help: My employer reads my private emails. Is that allowed?
+Q024,Cyber incident,I am confused. Someone stole my bank login. What should we do first?
+Q025,E-signature,The bank accepted an electronic signature. Is it legally valid?
+Q026,E-signature,I am confused. The bank accepted an electronic signature. Does the law recognise it?
+Q027,E-signature,"Hi, My landlord sent a PDF to sign. Is it legally valid?"
+Q028,Cyber incident,I am confused. Our website was defaced. Where do I get help?
+Q029,Arrest rights,I am held at a police station. Must they tell me why?
+Q030,Arrest rights,Quick question: My cousin was taken into custody. Who should I call?
+Q031,E-signature,I am confused. I signed a document on my phone. Can I be bound by it?
+Q032,Cyber incident,Please help: My company was hit by ransomware. What should we do first?
+Q033,E-signature,I am confused. The bank accepted an electronic signature. Is it legally valid?
+Q034,Cyber incident,Quick question: A hacker leaked our customer records. Where do I get help?
+Q035,Cyber incident,My company was hit by ransomware. Where do I get help?
+Q036,E-signature,Quick question: I signed a contract by email. Can I be bound by it?
+Q037,Cyber incident,Please help: Our website was defaced. What should we do first?
+Q038,E-signature,"Hi, I signed a contract by email. Is it legally valid?"
+Q039,Cyber incident,Quick question: A hacker leaked our customer records. Who do I report it to?
+Q040,Privacy,Quick question: My employer reads my private emails. Is my privacy protected?
+Q041,Privacy,"Hi, My chats were shared without asking. Can I complain?"
+Q042,Privacy,"Hi, My chats were shared without asking. Is that legal?"
+Q043,Cyber incident,Our website was defaced. Who do I report it to?
+Q044,Cyber incident,I am confused. My company was hit by ransomware. Should we pay the ransom?
+Q045,E-signature,Quick question: I signed a contract by email. Is it legally valid?
+Q046,Cyber incident,"Hi, Our website was defaced. Who do I report it to?"
+Q047,Arrest rights,Please help: Officers detained me yesterday. Can I see a lawyer?
+Q048,Arrest rights,"Hi, Officers detained me yesterday. How long can they hold me?"
+Q049,Cyber incident,Please help: My company was hit by ransomware. Where do I get help?
+Q050,E-signature,Quick question: I signed a document on my phone. Does the law recognise it?
+Q051,Cyber incident,Quick question: A hacker leaked our customer records. Where do I get help?
+Q052,E-signature,Quick question: I signed a document on my phone. Can I be bound by it?
+Q053,Cyber incident,We received a phishing email. Who do I report it to?
+Q054,Privacy,Quick question: A company shared my personal data. Is that legal?
+Q055,Privacy,"Hi, My chats were shared without asking. Is that allowed?"
+Q056,E-signature,Quick question: I signed a document on my phone. Can I use it in court?
+Q057,Privacy,Please help: My employer reads my private emails. Is that legal?
+Q058,Privacy,My chats were shared without asking. Is that allowed?
+Q059,E-signature,Quick question: I signed a contract by email. Is it the same as ink?
+Q060,Cyber incident,Please help: We received a phishing email. Who do I report it to?
+Q061,Privacy,Quick question: Someone entered my home without a warrant. Is that legal?
+Q062,Arrest rights,I am confused. I am held at a police station. Do I have rights?
+Q063,Privacy,I am confused. My employer reads my private emails. Is my privacy protected?
+Q064,Cyber incident,"Hi, Someone stole my bank login. Should we pay the ransom?"
+Q065,Arrest rights,"Hi, My cousin was taken into custody. Do I have rights?"
+Q066,E-signature,"Hi, I signed a document on my phone. Can I be bound by it?"
+Q067,Cyber incident,"Hi, We received a phishing email. Is there a national response team?"
+Q068,Cyber incident,Quick question: Someone stole my bank login. Is there a national response team?
+Q069,Privacy,Please help: My chats were shared without asking. Can I complain?
+Q070,Cyber incident,"Hi, My company was hit by ransomware. Is there a national response team?"
+Q071,Out of scope,I need a driving licence. How much does it cost?
+Q072,Cyber incident,Please help: Our website was defaced. Who do I report it to?
+Q073,Privacy,Someone entered my home without a warrant. What does the Constitution say?
+Q074,Cyber incident,We received a phishing email. What should we do first?
+Q075,Privacy,I am confused. The police read my phone messages. Is my privacy protected?
+Q076,Out of scope,I am confused. I want to get a passport. What documents do I need?
+Q077,Arrest rights,I am confused. My cousin was taken into custody. Who should I call?
+Q078,Cyber incident,I am confused. We received a phishing email. What should we do first?
+Q079,E-signature,I am confused. I clicked accept on an online agreement. Does the law recognise it?
+Q080,Out of scope,I need to pay my taxes. What are the steps?
+Q081,Out of scope,I want to register a company. What documents do I need?
+Q082,Arrest rights,Please help: My cousin was taken into custody. Must they tell me why?
+Q083,Out of scope,Quick question: I want to register a company. What are the steps?
+Q084,Out of scope,Quick question: I want to get a passport. What documents do I need?
+Q085,Out of scope,Please help: I want to get a passport. What documents do I need?
+Q086,Out of scope,I am confused. I need to pay my taxes. What are the steps?
+Q087,Privacy,A company shared my personal data. Is that legal?
+Q088,Out of scope,Please help: I need to pay my taxes. What are the steps?
+Q089,Cyber incident,Quick question: A hacker leaked our customer records. Is there a national response team?
+Q090,Arrest rights,Please help: The police arrested my brother. Who should I call?
+Q091,E-signature,I am confused. I signed a contract by email. Does the law recognise it?
+Q092,Out of scope,Quick question: I want to buy a plot of land. How much does it cost?
+Q093,Arrest rights,Please help: Officers detained me yesterday. Who should I call?
+Q094,Out of scope,I am confused. I need to pay my taxes. What are the steps?
+Q095,Cyber incident,I am confused. A hacker leaked our customer records. Is there a national response team?
+Q096,Out of scope,I am confused. I need to pay my taxes. What documents do I need?
+Q097,Arrest rights,Please help: The police arrested my brother. Do I have rights?
+Q098,Out of scope,Quick question: I need to pay my taxes. What documents do I need?
+Q099,E-signature,"Hi, The bank accepted an electronic signature. Is it the same as ink?"
+Q100,Arrest rights,"Hi, A person is arrested at night. Can I see a lawyer?"
+Q101,E-signature,"Hi, I clicked accept on an online agreement. Is it the same as ink?"
+Q102,Out of scope,I am confused. I need a driving licence. What documents do I need?
+Q103,Out of scope,I am confused. I need to pay my taxes. What documents do I need?
+Q104,Privacy,I am confused. A company shared my personal data. What does the Constitution say?
+Q105,Out of scope,Please help: I want to buy a plot of land. How much does it cost?
+Q106,Out of scope,I am confused. I want to get a passport. Which office should I visit?
+Q107,E-signature,I clicked accept on an online agreement. Can I be bound by it?
+Q108,Privacy,I am confused. My chats were shared without asking. Is that legal?
+Q109,Arrest rights,I am confused. I am held at a police station. Can I see a lawyer?
+Q110,Out of scope,I am confused. I want to get a passport. What documents do I need?
+Q111,Out of scope,Quick question: I want to get a passport. Which office should I visit?
+Q112,Out of scope,"Hi, I want to register a company. How much does it cost?"
+Q113,Out of scope,"Hi, I want to get a passport. What documents do I need?"
+Q114,Arrest rights,I am held at a police station. Who should I call?
+Q115,Privacy,A company shared my personal data. Is that legal?
+Q116,Cyber incident,Someone stole my bank login. Where do I get help?
+Q117,Out of scope,I am confused. I want to get a passport. What are the steps?
+Q118,Privacy,Please help: My employer reads my private emails. What does the Constitution say?
+Q119,Out of scope,I want to buy a plot of land. Which office should I visit?
+Q120,Cyber incident,Quick question: Someone stole my bank login. What should we do first?
+Q121,Privacy,I am confused. A company shared my personal data. Can I complain?
+Q122,Out of scope,Please help: I need a driving licence. How much does it cost?
+Q123,Out of scope,I need to pay my taxes. How long does it take?
+Q124,Arrest rights,My cousin was taken into custody. Must they tell me why?
+Q125,Arrest rights,A person is arrested at night. Do I have rights?
+Q126,Privacy,Quick question: The police read my phone messages. Is that allowed?
+Q127,Out of scope,I am confused. I want to buy a plot of land. What are the steps?
+Q128,Out of scope,"Hi, I want to buy a plot of land. Which office should I visit?"
+Q129,Out of scope,Quick question: I need to pay my taxes. What documents do I need?
+Q130,Cyber incident,I am confused. Our website was defaced. Where do I get help?
+Q131,Arrest rights,"Hi, I am held at a police station. Do I have rights?"
+Q132,Privacy,"Hi, Someone entered my home without a warrant. Is that legal?"
+Q133,E-signature,I clicked accept on an online agreement. Can I be bound by it?
+Q134,Out of scope,Quick question: I want to buy a plot of land. What are the steps?
+Q135,Out of scope,Quick question: I want to get a passport. How much does it cost?
+Q136,E-signature,Quick question: I clicked accept on an online agreement. Can I use it in court?
+Q137,Arrest rights,My cousin was taken into custody. Who should I call?
+Q138,Arrest rights,I am confused. The police arrested my brother. Do I have rights?
+Q139,Arrest rights,A person is arrested at night. Must they tell me why?
+Q140,E-signature,I am confused. I signed a document on my phone. Can I be bound by it?
+Q141,Privacy,Quick question: A company shared my personal data. Is my privacy protected?
+Q142,Arrest rights,"Hi, My cousin was taken into custody. Who should I call?"
+Q143,E-signature,Quick question: I signed a contract by email. Does the law recognise it?
+Q144,E-signature,Quick question: I signed a contract by email. Is it the same as ink?
+Q145,Privacy,I am confused. Someone entered my home without a warrant. Can I complain?
+Q146,Arrest rights,Please help: The police arrested my brother. Who should I call?
+Q147,Arrest rights,Officers detained me yesterday. Can I see a lawyer?
+Q148,Privacy,"Hi, A company shared my personal data. Is my privacy protected?"
+Q149,Arrest rights,"Hi, My cousin was taken into custody. Who should I call?"
+Q150,Cyber incident,I am confused. Someone stole my bank login. Should we pay the ransom?
